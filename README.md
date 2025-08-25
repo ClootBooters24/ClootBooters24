@@ -12,7 +12,7 @@
 
 I'm a Computer Science graduate from the **University of Arkansas (BS '24)** with hands-on experience in **full-stack development, IT automation, and enterprise software**. I thrive in environments where I can solve complex problems with efficient code and innovative solutions.
 
-- 🔭 **Currently:** Preparing to join **Rocket Software's NextGen Academy** (October 2025)
+- 🔭 **Currently:** Rewriting Wildflower Salon's website to migrate from Squarespace to save the customer money!
 - 🌱 **Learning:** AWS Cloud Practitioner, IBM z/OS fundamentals, enterprise development practices
 - 💡 **Passionate about:** Automating workflows, building scalable systems, hardware/software integration
 - 🎯 **Goal:** Transition into a full-time software engineering role focusing on backend systems or DevOps
